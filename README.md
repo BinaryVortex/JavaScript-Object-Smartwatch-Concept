@@ -1,3 +1,7 @@
+<div align="center">
+<img src="Logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # ⌚ JavaScript Object Smartwatch Concept
 
 A modern smartwatch concept built using **HTML, CSS, and JavaScript**, demonstrating the power of JavaScript Objects while delivering an interactive smartwatch-inspired user interface.
